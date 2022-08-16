@@ -1,4 +1,4 @@
-# SpringDemo
+#Homework 4 & 5 SpringDemo
 Spring Web Demo Get Requests, POST Requests, and TimeZones.
 
 URL: http://localhost:8080/

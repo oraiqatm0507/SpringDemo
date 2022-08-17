@@ -14,7 +14,7 @@ class SpringDemoApplicationTests {
 	AppController app = new AppController();
 	
 	@Test
-	void contextLoads() {
+	void UTC() {
 		Date date = new Date();
 		//HH:mm:ss 24 hour format
 		DateFormat df = new SimpleDateFormat("yyyy-MM-dd hh.mm aa");
@@ -29,7 +29,7 @@ class SpringDemoApplicationTests {
 		assert(testResult.equals(correctSol));
 		
 	}
-
+	
 	@Test
 	void LosAngels() {
 		Date date = new Date();

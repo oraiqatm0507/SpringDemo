@@ -10,6 +10,10 @@ URL: http://localhost:8080/
 3. Both Requests will also return a list of all available timezones for reference.
 
 
+### Run Code:
+Run in terminal: $ **java -jar SpringDemo-0.0.1-SNAPSHOT.jar**
+
+
 ## Homework 5
 
 2 Junit Test verifying getDate functionality

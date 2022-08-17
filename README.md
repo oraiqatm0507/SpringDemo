@@ -18,4 +18,4 @@ Run in terminal: $ **java -jar SpringDemo-0.0.1-SNAPSHOT.jar**
 
 2 Junit Test verifying getDate functionality
 
-** Must run program in IDE (Eclipse) to view Tests. **
+**Must run program in IDE (Eclipse) to view Tests.**

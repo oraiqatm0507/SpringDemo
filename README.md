@@ -17,3 +17,5 @@ Run in terminal: $ **java -jar SpringDemo-0.0.1-SNAPSHOT.jar**
 ## Homework 5
 
 2 Junit Test verifying getDate functionality
+
+**Must view test completion within Eclipse.**
